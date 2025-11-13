@@ -65,13 +65,14 @@ apple-website-clone/ <br>
 │
 ├── public/              # Static assets <br>
 ├── src/ <br>
-│   ├── assets/          # 3D models, textures, icons <br>
 │   ├── components/      # React components <br>
-│   ├── sections/        # Page sections (Hero, Features, etc.) <br>
+│   ├── constants/       <br>
 │   ├── utils/           # Helper functions <br>
 │   ├── App.jsx <br>
 │   └── main.jsx <br>
-│
+├── public/
+│   ├── assets/ # 3D models, textures, icons <br>
+    ├── models/
 ├── package.json <br>
 └── README.md <br>
 
