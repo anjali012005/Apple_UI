@@ -62,7 +62,6 @@ npm run dev
 ```
 
 apple-website-clone/ <br>
-│
 ├── public/              # Static assets <br>
 ├── src/ <br>
 │   ├── components/      # React components <br>
@@ -70,9 +69,9 @@ apple-website-clone/ <br>
 │   ├── utils/           # Helper functions <br>
 │   ├── App.jsx <br>
 │   └── main.jsx <br>
-├── public/
+├── public/ <br/>
 │   ├── assets/ # 3D models, textures, icons <br>
-    ├── models/
+│   ├── models/<br/>
 ├── package.json <br>
 └── README.md <br>
 
