@@ -87,7 +87,7 @@ Smooth animations and transitions mimic Apple’s modern web design feel.
 
 Deployed easily using Vercel, Netlify, or GitHub Pages.
 
-Example (Vercel):
-npm run build
+Example (Vercel):<br/>
+npm run build <br/>
 vercel deploy
 
