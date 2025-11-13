@@ -49,7 +49,7 @@ Follow these steps to run the project locally 👇
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/yourusername/apple-website-clone.git
+git clone https://github.com/anjali012005/Apple_UI.git
 
 # 2️⃣ Move into the project directory
 cd apple-website-clone
