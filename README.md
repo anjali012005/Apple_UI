@@ -52,7 +52,7 @@ Follow these steps to run the project locally 👇
 git clone https://github.com/anjali012005/Apple_UI.git
 
 # 2️⃣ Move into the project directory
-cd apple-website-clone
+cd Apple_UI
 
 # 3️⃣ Install dependencies
 npm install
